@@ -9,12 +9,7 @@
   <body>
 
         <h1><a>Register New Account</a></h1>
-
-      
       </section>
-
-    
-
           <div class="row">
             <div class="small-4 columns">
               <label for="right-label" class="right inline">Username</label>
